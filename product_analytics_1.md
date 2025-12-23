@@ -1,3 +1,4 @@
+
 ---
 
 ## **User Acquisition – Core Fundamentals**
@@ -102,3 +103,4 @@ Track conversion across the funnel:
   Revenue expected from a user over time.
 
 ---
+
